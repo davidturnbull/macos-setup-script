@@ -27,6 +27,11 @@ brew cask install tower
 brew cask install transmission
 brew cask install visual-studio-code
 
+# mas
+mas install 937984704  # Amphetamine
+mas install 1091189122 # Bear
+mas install 441258766  # Magnet
+
 # Install nvm/node
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 source ~/.bash_profile
