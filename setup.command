@@ -14,6 +14,7 @@ brew tap caskroom/versions
 brew install bash-completion
 brew install git
 brew install mas
+brew install watchman
 brew install wget
 brew install yarn --without-node
 brew install youtube-dl
@@ -31,6 +32,7 @@ brew cask install visual-studio-code
 mas install 937984704  # Amphetamine
 mas install 1091189122 # Bear
 mas install 441258766  # Magnet
+mas install 497799835  # Xcode
 
 # Install nvm/node
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
